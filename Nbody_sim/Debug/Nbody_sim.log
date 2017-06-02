@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\h3rme\documents\visual studio 2017\projects\nbody_sim\nbody_sim\task.h(3): warning C4305: инициализация: усечение из "double" в "float"
+c:\users\h3rme\documents\visual studio 2017\projects\nbody_sim\nbody_sim\task.h(4): warning C4305: инициализация: усечение из "double" в "float"
+  Nbody_sim.vcxproj -> c:\users\h3rme\documents\visual studio 2017\Projects\Nbody_sim\Debug\Nbody_sim.exe
+  Nbody_sim.vcxproj -> c:\users\h3rme\documents\visual studio 2017\Projects\Nbody_sim\Debug\Nbody_sim.pdb (Partial PDB)
