@@ -48,7 +48,7 @@ int main()
 		particles[i].m = mass;
 	}
 
-	int numberofiterations = 100;
+	int numberofiterations = 800;
 	clock_t start = clock();
 	//Nbody_simple(particles, numberofiterations);
 	//Nbody_thread(particles, numberofiterations);

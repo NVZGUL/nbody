@@ -22,9 +22,5 @@ void Nbody_thread(Body particles[N], int numberofiterations)
 		{
 			particles[i] = update(particles[i], TIMESTAMP);
 		}
-		for (int i = 0; i < N; i++)
-		{
-			printParticle(particles[i]);
-		}
 	});
 }
